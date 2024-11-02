@@ -26,15 +26,13 @@ HTML/CSS: Para a criação das páginas web.
 O banco de dados contém as seguintes tabelas:
 
 usu: Armazena informações dos usuários, incluindo:
- ________________________________________________________________________
-|codusu: Código do usuário (chave primária).                             |
-|tipousu: Tipo de usuário (Professor, Aluno, Funcionário).               |
-|nomeusu: Nome do usuário.                                               |
-|endusu: Endereço do usuário.                                            |
-|docusu: Documento do usuário.                                           |
-|statususu: Status do usuário.                                           |
-|materiais: Armazena informações dos materiais disponíveis na biblioteca.|
-|________________________________________________________________________|
+*codusu: Código do usuário (chave primária).                             
+tipousu: Tipo de usuário (Professor, Aluno, Funcionário).               
+nomeusu: Nome do usuário.                                               
+endusu: Endereço do usuário.                                            
+docusu: Documento do usuário.                                           
+statususu: Status do usuário.                                          
+materiais: Armazena informações dos materiais disponíveis na biblioteca.
 
 # Instalação
 
